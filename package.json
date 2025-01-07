@@ -17,7 +17,8 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-no-floating-promise": "^1.0.2",
     "eslint-plugin-prettier": "^5.0.0",
-    "jasmine": "^5.1.0"
+    "jasmine": "^5.1.0",
+    "tap": "^21.0.1"
   },
   "dependencies": {
     "@prettier/sync": "^0.3.0",
